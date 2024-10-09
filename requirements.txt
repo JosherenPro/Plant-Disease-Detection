@@ -1,0 +1,6 @@
+python-telegram-bot==20.0
+python-dotenv==1.0.0
+tensorflow
+pillow
+numpy
+kagglehub
