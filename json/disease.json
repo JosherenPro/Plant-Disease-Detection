@@ -1,0 +1,154 @@
+{
+  "0": {
+    "name": "Pommier___Tavelure du pommier",
+    "solution": "Enlever et détruire les feuilles infectées, appliquer des fongicides à base de cuivre au début du printemps."
+  },
+  "1": {
+    "name": "Pommier___Pourriture noire",
+    "solution": "Tailler les branches malades et utiliser des fongicides homologués."
+  },
+  "2": {
+    "name": "Pommier___Rouille du cèdre et du pommier",
+    "solution": "Planter des variétés résistantes, traiter avec des fongicides en début de saison."
+  },
+  "3": {
+    "name": "Pommier___Sain",
+    "solution": "Aucune action requise, maintenir de bonnes pratiques de culture."
+  },
+  "4": {
+    "name": "Bleuet___Sain",
+    "solution": "Aucune action requise, maintenir de bonnes pratiques de culture."
+  },
+  "5": {
+    "name": "Cerise (y compris cerise aigre)___Oïdium",
+    "solution": "Appliquer du soufre ou des fongicides adaptés, tailler pour améliorer la circulation de l'air."
+  },
+  "6": {
+    "name": "Cerise (y compris cerise aigre)___Sain",
+    "solution": "Aucune action requise, maintenir de bonnes pratiques de culture."
+  },
+  "7": {
+    "name": "Maïs___Tache grise des feuilles (Cercospora)",
+    "solution": "Pratiquer la rotation des cultures, utiliser des variétés résistantes."
+  },
+  "8": {
+    "name": "Maïs___Rouille commune",
+    "solution": "Utiliser des variétés résistantes et appliquer des fongicides."
+  },
+  "9": {
+    "name": "Maïs___Brûlure nordique des feuilles",
+    "solution": "Utiliser des semences résistantes, appliquer des fongicides en cas de forte pression."
+  },
+  "10": {
+    "name": "Maïs___Sain",
+    "solution": "Aucune action requise, maintenir de bonnes pratiques de culture."
+  },
+  "11": {
+    "name": "Raisin___Pourriture noire",
+    "solution": "Supprimer les parties infectées, appliquer des fongicides spécifiques."
+  },
+  "12": {
+    "name": "Raisin___Esca (Mesures noires)",
+    "solution": "Tailler les bois malades, utiliser des fongicides si nécessaire."
+  },
+  "13": {
+    "name": "Raisin___Brûlure des feuilles (Isariopsis)",
+    "solution": "Améliorer la ventilation de la vigne et appliquer des fongicides."
+  },
+  "14": {
+    "name": "Raisin___Sain",
+    "solution": "Aucune action requise, maintenir de bonnes pratiques de culture."
+  },
+  "15": {
+    "name": "Orange___Huanglongbing (Greening des agrumes)",
+    "solution": "Éliminer les arbres infectés, contrôler les insectes vecteurs comme les psylles."
+  },
+  "16": {
+    "name": "Pêche___Tache bactérienne",
+    "solution": "Appliquer des traitements à base de cuivre pendant la dormance."
+  },
+  "17": {
+    "name": "Pêche___Sain",
+    "solution": "Aucune action requise, maintenir de bonnes pratiques de culture."
+  },
+  "18": {
+    "name": "Poivron___Tache bactérienne",
+    "solution": "Pratiquer la rotation des cultures et appliquer des fongicides à base de cuivre."
+  },
+  "19": {
+    "name": "Poivron___Sain",
+    "solution": "Aucune action requise, maintenir de bonnes pratiques de culture."
+  },
+  "20": {
+    "name": "Pomme de terre___Mildiou précoce",
+    "solution": "Appliquer des fongicides spécifiques, éviter l'irrigation par aspersion."
+  },
+  "21": {
+    "name": "Pomme de terre___Mildiou tardif",
+    "solution": "Supprimer les plants infectés et traiter avec des fongicides."
+  },
+  "22": {
+    "name": "Pomme de terre___Sain",
+    "solution": "Aucune action requise, maintenir de bonnes pratiques de culture."
+  },
+  "23": {
+    "name": "Framboise___Sain",
+    "solution": "Aucune action requise, maintenir de bonnes pratiques de culture."
+  },
+  "24": {
+    "name": "Soja___Sain",
+    "solution": "Aucune action requise, maintenir de bonnes pratiques de culture."
+  },
+  "25": {
+    "name": "Courge___Oïdium",
+    "solution": "Appliquer du soufre ou des fongicides spécifiques."
+  },
+  "26": {
+    "name": "Fraise___Brûlure des feuilles",
+    "solution": "Supprimer les feuilles atteintes, utiliser des fongicides adaptés."
+  },
+  "27": {
+    "name": "Fraise___Sain",
+    "solution": "Aucune action requise, maintenir de bonnes pratiques de culture."
+  },
+  "28": {
+    "name": "Tomate___Tache bactérienne",
+    "solution": "Pratiquer la rotation des cultures et appliquer des fongicides à base de cuivre."
+  },
+  "29": {
+    "name": "Tomate___Mildiou précoce",
+    "solution": "Appliquer des fongicides spécifiques, assurer une bonne aération."
+  },
+  "30": {
+    "name": "Tomate___Mildiou tardif",
+    "solution": "Enlever les plants infectés, traiter avec des fongicides."
+  },
+  "31": {
+    "name": "Tomate___Moule des feuilles",
+    "solution": "Améliorer la circulation de l'air et traiter avec des fongicides."
+  },
+  "32": {
+    "name": "Tomate___Tache septorienne des feuilles",
+    "solution": "Supprimer les feuilles atteintes et utiliser des fongicides."
+  },
+  "33": {
+    "name": "Tomate___Acariens (Araignée rouge)",
+    "solution": "Utiliser des acaricides et améliorer la ventilation."
+  },
+  "34": {
+    "name": "Tomate___Tache cible",
+    "solution": "Appliquer des fongicides et assurer une bonne aération."
+  },
+  "35": {
+    "name": "Tomate___Virus de la mosaïque jaune de la tomate",
+    "solution": "Enlever les plants infectés, lutter contre les vecteurs comme les aleurodes."
+  },
+  "36": {
+    "name": "Tomate___Virus de la mosaïque de la tomate",
+    "solution": "Supprimer les plants malades et désinfecter les outils."
+  },
+  "37": {
+    "name": "Tomate___Sain",
+    "solution": "Aucune action requise, maintenir de bonnes pratiques de culture."
+  }
+}
