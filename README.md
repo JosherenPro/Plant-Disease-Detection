@@ -3,4 +3,3 @@ Bot Telegram conçut pour detecter les maladies potentielles d'une plante par l'
 > Ce bot utilise un modèle pré-entrainé de Rishit Dagli, publié le 2021.05.06. [https://www.kaggle.com/models/rishitdagli/plant-disease]
 Lien du bot [t.me/PlantDiBot](Telegram)
 
-7772695953:AAErPSSnGntC8sCGmIho4rjGsTc__B0e7iE
